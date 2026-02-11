@@ -1,0 +1,21 @@
+{
+  "name": "gdscript-lsp-bridge",
+  "version": "1.0.0",
+  "description": "TCP-to-stdio bridge for Godot's GDScript LSP server",
+  "main": "dist/index.js",
+  "bin": {
+    "gdscript-lsp-bridge": "./dist/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.7.0"
+  }
+}
