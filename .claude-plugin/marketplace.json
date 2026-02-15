@@ -20,7 +20,7 @@
           "command": "gdscript-lsp-bridge",
           "extensionToLanguage": {
             ".gd": "gdscript",
-            ".gdshader": "gdshaderl"
+            ".gdshader": "gdshader"
           }
         }
       }
