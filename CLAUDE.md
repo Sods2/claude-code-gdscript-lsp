@@ -11,3 +11,7 @@ This plugin uses Godot's built-in LSP server (TCP port 6005) via a Node.js bridg
 - Bridge source: `bridge/src/`
 - Build: `cd bridge && npm run build`
 - Zero runtime dependencies (Node.js built-ins only)
+
+## Global Rules
+
+See [RULES.md](../../Main/RULES.md) for rules that apply across all projects.
