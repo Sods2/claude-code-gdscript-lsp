@@ -1,0 +1,4 @@
+# Exclude from git archive (itch.io distribution zip)
+CLAUDE.md            export-ignore
+.gitattributes       export-ignore
+.gitignore           export-ignore

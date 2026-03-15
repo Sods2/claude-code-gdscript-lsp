@@ -30,7 +30,7 @@ Godot's built-in language server speaks TCP, but Claude Code's LSP plugin system
 ### Quick Install
 
 ```bash
-git clone https://github.com/medrive/claude-code-gdscript-lsp.git
+git clone https://github.com/Sods2/claude-code-gdscript-lsp.git
 cd claude-code-gdscript-lsp
 ./scripts/install.sh
 ```
